@@ -27,12 +27,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
+                android:backgroundTint="#707070"
                 android:fontFamily="sans-serif-black"
                 android:gravity="center_horizontal"
                 android:paddingTop="50px"
                 android:text="@string/reservation"
-                android:textSize="50sp"
-                android:backgroundTint="#707070"/>
+                android:textSize="50sp" />
 
             <TextView
                 android:id="@+id/textView2"
@@ -156,7 +156,7 @@
                 android:timePickerMode="spinner" />
 
             <Button
-                android:id="@+id/button2"
+                android:id="@+id/btnBook"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
@@ -165,7 +165,7 @@
                 app:backgroundTint="#75C8BA" />
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/btnReset"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-black"
