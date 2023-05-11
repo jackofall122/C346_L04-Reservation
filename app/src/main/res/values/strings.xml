@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="reservation">Reservations</string>
+    <string name="instructions">Please enter your details below</string>
+    <string name="name">Name</string>
+    <string name="groupSize">Group size</string>
+    <string name="contactNo">Contact number</string>
+    <string name="seatType">Seating Type</string>
+    <string name="smokingArea">Smoking area</string>
+    <string name="nonsmokingArea">Non-smoking area</string>
+    <string name="date">Booking Date</string>
+    <string name="time">Booking Time</string>
+    <string name="confirm">Confirm Booking</string>
+    <string name="reset">Reset</string>
+    <string name="booking">You currently have no bookings.</string>
+</resources>
